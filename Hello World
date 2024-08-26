@@ -1,0 +1,10 @@
+// Maddock Davis
+// Simple "Hello World" 
+
+public class Greeter {
+    
+    //Prints "Hello World".
+    public static void main(String[] args) {
+        System.out.println("Hello, World");
+    }
+}
